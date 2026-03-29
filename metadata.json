@@ -1,0 +1,5 @@
+{
+  "name": "AddonCraft AI",
+  "description": "Create Minecraft Bedrock addons with AI. Generate items, mobs, and blocks from prompts. Convert Java mods to Bedrock.",
+  "requestFramePermissions": []
+}
